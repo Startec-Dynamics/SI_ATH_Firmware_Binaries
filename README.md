@@ -1,12 +1,13 @@
 # SI_ATH_Firmware_Binaries
 Contains SI Firmware Binaries for Production and Validation
 
-**Latest:** Test_v0.0.9 — 2026-04-05
+**Latest:** Test_v0.1 — 2026-08-01
 
 ## Release History
 
 | Version | Date |
 |---|---|
+| Test_v0.1 | 2026-08-01 |
 | Test_v0.0.9 | 2026-04-05 |
 | Test_v0.0.8 | 2026-04-05 |
 | Test_v0.0.7 | 2026-04-05 |
